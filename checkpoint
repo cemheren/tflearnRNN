@@ -1,0 +1,2 @@
+model_checkpoint_path: "shakespeare.model6"
+all_model_checkpoint_paths: "shakespeare.model6"
